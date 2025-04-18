@@ -1,0 +1,11 @@
+37.202.222.182,8443,AE,Zenlayer Inc
+193.123.81.105,443,AE,Oracle Corporation
+185.209.49.17,8443,AE,ITGLOBAL COM DMCC
+193.123.90.82,12648,AE,Oracle Corporation
+193.123.84.1,51132,AE,Oracle Corporation
+185.209.49.17,2053,AE,ITGLOBAL COM DMCC
+159.100.198.106,443,AE,Aryaka Networks Inc
+193.123.69.77,443,AE,Oracle Corporation
+217.195.200.52,80,AE,G-Core Labs S.A
+3.28.240.153,2053,AE,Amazon.com Inc
+20.74.223.241,443,AE,Microsoft Corporation
